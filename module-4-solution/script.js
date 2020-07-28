@@ -53,7 +53,7 @@ for (var i=0;i<=names.length;i++) {
   // Look up these methods on Mozilla Developer Network web site if needed.
   var y=names[i];
   var first=y.toLowerCase();
-  var firstLetter =y.charAt(0);
+  var firstLetter =first.charAt(0);
 
 
   // STEP 12:
